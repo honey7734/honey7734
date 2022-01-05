@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a herf="mailto:gusdml7243@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gusdml7243-EA4335?style=flat&logo=gmail&logoColor=EA4335"/></a>
+<a herf="mailto:gusdml7243@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gusdml7243@gmail.com-FFFFFF?style=flat&logo=gmail&logoColor=EA4335"/></a>
