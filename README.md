@@ -41,21 +41,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 </div>
 
 <br>
 
-<div align="center">
-    <p>
-        <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&locale=en"
-             alt="honey7734"/>
-    </p>
-    <p>
-        <img align="center"
-             src="https://github-readme-stats.vercel.app/api/top-langs?username=honey7734&show_icons=true&locale=en&layout=compact"
-             alt="honey7734"/>
-    </p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdml7243)](https://solved.ac/gusdml7243/)
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&locale=en" alt="honey7734"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=honey7734&show_icons=true&locale=en&layout=compact" alt="honey7734"/>
 
-</div>
+
+
