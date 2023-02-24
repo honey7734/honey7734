@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdml7243)](https://solved.ac/gusdml7243/)
- 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gusdml7243&theme=warm)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&locale=en" alt="honey7734"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=honey7734&show_icons=true&locale=en&layout=compact" alt="honey7734"/>
 
