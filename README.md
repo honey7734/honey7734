@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Honey&fontSize=90)
-
 <!--
 **honey7734/honey7734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Honey&fontSize=90)
+    
+</div>
 <div align="center">
     <p>
     <a href="https://github.com/honey7734" target="_blank">
@@ -52,8 +55,9 @@ Here are some ideas to get you started:
     
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&locale=en" alt="honey7734"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=honey7734&show_icons=true&locale=en&layout=compact" alt="honey7734"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honey7734&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honey7734&layout=compact">
+</p>
 
 
